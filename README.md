@@ -1,5 +1,5 @@
-# Blogging-System
-A blog website built using php and mysql database
+ # Blogging-System
+ 
 
 
 The user and register and make a account by entering their credentials.
